@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Kosta 👋
 
-<!--
-**KostaToulantas/KostaToulantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Bachelor of Computer Science student at Adelaide University, majoring in Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+- 🛰️ Contributing to a student CubeSat project through the Adelaide University Satellite and Telemetry Club
+- 💻 Building my foundations in Python, object-oriented programming, structured data, computer systems, requirements engineering, cybersecurity and mathematics
+- 🎯 Interested in software engineering, machine learning and space technology
+- 📍 Based in Adelaide, Australia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical skills
+
+- **Currently using:** Python, object-oriented programming, UML and requirements engineering
+- **Developing:** SQL, Git, GitHub, unit testing and Linux
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/kosta-toulantas/)
