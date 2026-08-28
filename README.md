@@ -4,7 +4,7 @@ I'm a Bachelor of Computer Science student at Adelaide University, majoring in A
 
 - 🛰️ Contributing to a student CubeSat project through the Adelaide University Satellite and Telemetry Club
 - 💻 Building my foundations in Python, object-oriented programming, structured data, computer systems, requirements engineering, cybersecurity and mathematics
-- 🎯 Interested in software engineering, machine learning and space technology
+- 🎯 Interested in software engineering and machine learning
 - 📍 Based in Adelaide, Australia
 
 ## Technical skills
