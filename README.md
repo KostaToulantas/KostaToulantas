@@ -10,7 +10,7 @@ I'm a Bachelor of Computer Science student at Adelaide University, majoring in A
 ## Technical skills
 
 - **Currently using:** Python, object-oriented programming, UML and requirements engineering
-- **Developing:** SQL, Git, GitHub, unit testing and Linux
+- **Developing:** SQL, Git, GitHub, and unit testing
 
 ## Connect with me
 
